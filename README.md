@@ -35,9 +35,6 @@ A full-stack **Inventory Management System** built using the **MERN Stack (Mongo
 
 ![Products](./screenshots/products.png)
 
-### ➕ Add Product
-
-![Add Product](./screenshots/add-product.png)
 
 ### 🔐 Login Page
 
