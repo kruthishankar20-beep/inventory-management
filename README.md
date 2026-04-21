@@ -127,12 +127,6 @@ merninventory/
 
 ---
 
-## 👨‍💻 Author
-
-**Kruthi Shankar**
-GitHub: https://github.com/YOUR_USERNAME
-
----
 
 ## ⭐ Acknowledgement
 
@@ -140,8 +134,3 @@ This project was built as part of learning full-stack development using the MERN
 
 ---
 
-## 📌 Note
-
-Make sure MongoDB is properly connected and running before starting the backend server.
-
----
