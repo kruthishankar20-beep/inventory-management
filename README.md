@@ -47,7 +47,7 @@ A full-stack **Inventory Management System** built using the **MERN Stack (Mongo
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/inventory-management-system.git
+git clone https://github.com/kruthishanar20-beep/inventory-management-system.git
 cd inventory-management-system
 ```
 
